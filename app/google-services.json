@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114639616383",
+    "project_id": "androidstudio-f907e",
+    "storage_bucket": "androidstudio-f907e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114639616383:android:be061b4e76ca0411bbc24a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication2java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114639616383-tbrhafsl48t14qchvfh84emjukqll4dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_A9POFtF9T1p88DqXC8PW0nqyvxZ2Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114639616383-tbrhafsl48t14qchvfh84emjukqll4dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
